@@ -1,0 +1,14 @@
+body {
+    background-image: url('beyza-yilmaz-d7MEz8bCtQo-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+} 
+
+h1 {
+   color: white;
+}
+
+#searchResults, #time {
+    visibility: hidden;
+}
